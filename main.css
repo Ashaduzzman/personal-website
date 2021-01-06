@@ -1,0 +1,185 @@
+  body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+  }
+
+  h1 {
+      font-size: 50px;
+      line-height: 20px;
+  }
+
+  h2 {
+      font-size: 35px;
+      color: tomato;
+  }
+
+  h3 {
+      font-size: 20px;
+      color: yellow;
+  }
+
+  h4 {
+      font-size: 15px;
+      color: orange;
+  }
+
+  p {
+      color: gray;
+  }
+
+  ul {
+      list-style-type: none;
+      margin: 5;
+      padding: 5;
+      overflow: hidden;
+      background-color: white;
+      text-align: left;
+  }
+
+  li {
+      float: right;
+      display: inline;
+  }
+
+  li a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+
+  .name-highlight {
+      color: orange;
+      clear: both;
+  }
+
+  .cnt {
+      color: green;
+  }
+
+  .half-width {
+      width: 40%;
+      float: left;
+      margin-left: 5%;
+      padding-left: 2%;
+  }
+
+  .half-width img {
+      width: 100%;
+  }
+
+  section {
+      height: 500px;
+
+
+
+  }
+
+  .link-btn {
+      text-decoration: none;
+      background-image: linear-gradient(145deg, lightsalmon, tomato);
+      color: white;
+      padding: 10px 20px;
+      font-weight: 700;
+      border-radius: 6px;
+
+  }
+
+  .work-box {
+      width: 40%;
+      float: left;
+      margin-left: 5%;
+      padding-left: 2%;
+      float: left;
+  }
+
+  h1 {
+      clear: both;
+  }
+
+  #id {
+      text-align: center;
+      float: right;
+      display: center;
+
+  }
+
+  .work-area {
+      width: 40%;
+      margin-left: 5%;
+      padding-left: 2%;
+      position: center;
+  }
+
+  .work-area img {
+      width: 100%;
+      margin-top: 5px;
+  }
+
+  #id {
+      clear: both;
+  }
+
+
+
+  .single-exprience {
+      box-shadow: 10px 10px 50px #0b4605;
+      height: 60%;
+      border-radius: 5px;
+      background-color: white;
+  }
+
+  .experience {
+      background-image: url("shapes/Group\ 33082.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      clear: both;
+  }
+
+  .experience h1 {
+      color: red;
+  }
+
+  #full-stack {
+      border-left: 7px solid;
+      border-image: linear-gradient(180deg, lightsalmon, tomato);
+      border-image-slice: 1;
+  }
+
+  #baby-stack {
+      border-left: 7px solid;
+      border-image: linear-gradient(180deg, blue, cyan);
+      border-image-slice: 1;
+  }
+
+  .one {
+
+      width: 30%;
+      margin-left: 5%;
+      padding-left: 2%;
+      border: 5px solid #4D41CB;
+      background-color: #4D41CB;
+  }
+
+  #two {
+      display: inline;
+      float: left;
+
+  }
+
+  #three {
+      display: inline;
+      float: right;
+      border: 5px solid #4D41CB;
+  }
+
+  footer {
+      font-size: 20px;
+      text-align: center;
+      clear: both;
+  }
+
+  footer h1 {
+      color: red;
+  }
