@@ -104,7 +104,9 @@
       display: center;
 
   }
-
+#fixed {
+    display: inline-block;
+}
   .work-area {
       width: 40%;
       margin-left: 5%;
