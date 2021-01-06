@@ -54,9 +54,7 @@
       clear: both;
   }
 
-  .cnt {
-      color: green;
-  }
+
 
   .half-width {
       width: 40%;
@@ -71,7 +69,6 @@
 
   section {
       height: 500px;
-
 
 
   }
@@ -112,6 +109,7 @@
       margin-left: 5%;
       padding-left: 2%;
       position: center;
+
   }
 
   .work-area img {
@@ -136,7 +134,7 @@
       background-image: url("shapes/Group\ 33082.png");
       background-repeat: no-repeat;
       background-position: center;
-      clear: both;
+      clear: both;;
   }
 
   .experience h1 {
